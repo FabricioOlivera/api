@@ -17,13 +17,13 @@ Antes de empezar, asegúrate de tener instalados los siguientes requisitos:
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/spring-boot-api.git
+    git clone https://github.com/FabricioOlivera/api.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd spring-boot-api
+    cd demo
     ```
 
 3. Compila y construye el proyecto con Maven:
